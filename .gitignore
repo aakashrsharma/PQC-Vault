@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*.dk
+*.pqcv
+.venv/
+venv/
